@@ -9,7 +9,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 
-1.Import the required packages and print the present data.
+1.Import the required packages and print the present data
 
 2.Print the placement data and salary data.
 
